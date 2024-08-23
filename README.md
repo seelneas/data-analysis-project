@@ -1,6 +1,7 @@
 # data-analysis-project
 #Overview
 This project performs exploratory data analysis (EDA) and statistical analysis on a set of datasets, and develops an interactive dashboard using Streamlit to visualize insights.
+
 #Project Structure
 ├── .streamlit/
 │   └── config.toml              
@@ -27,6 +28,7 @@ This project performs exploratory data analysis (EDA) and statistical analysis o
     ├── __init__.py
     ├── eda.py                   
     └── README.md
+    
 #Prerequisites
 Make sure python is installed.
 Clone the created repository.
